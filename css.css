@@ -10,3 +10,8 @@ body{
       align-items: center;
       color: white;  
 }
+.images{
+    display: flex;
+      flex-direction: column;
+      align-items: center;  
+}
