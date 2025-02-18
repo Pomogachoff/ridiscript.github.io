@@ -24,3 +24,14 @@ input{
       border-radius: 1vh;
       cursor:pointer;
 }
+.down-but{
+ font-size: 4vh;
+    background-color: brown;
+    padding: 1vh 2vh;
+    border-radius: 1vh;    
+    cursor:pointer; 
+}
+    
+.down-but:active{
+      opacity: 0.8;
+}
